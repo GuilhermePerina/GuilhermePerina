@@ -1,4 +1,4 @@
-![snake gif](https://github.com/GuilhermePerina/GuilhermePerina/blob/output/github-contribution-grid-snake)
+![snake gif](https://github.com/GuilhermePerina/GuilhermePerina/blob/output/github-contribution-grid-snake.svg)
 
 # Seja bem vindo!
 Meu nome é Guilherme e estou aprendendo Python! 

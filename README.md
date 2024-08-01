@@ -9,7 +9,7 @@ Este é um projeto de aprendizado em Python, onde pretendo documentar meu progre
 ## 🔭 Objetivos
 - Aprender os conceitos básicos de Python.
 - Desenvolver pequenos projetos para praticar.
-- Entrar na área de programação Python até o final do ano.
+- Começar a carreira na área da programação.
 
 ## 🌱 Como Contribuir
 Se você tiver alguma sugestão, dica ou correção, fique à vontade para abrir uma Issue ou enviar um Pull Request.
